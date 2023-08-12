@@ -1,4 +1,4 @@
-# QR_Code_Generator
+# QR Code Generator
 Generate QR codes quickly and easily using this Python QR Code Generator. This project provides a simple command-line interface (CLI) for creating QR codes from text, URLs, or other data. QR codes are widely used for encoding information that can be easily scanned and decoded by smartphones and other devices.
 
 This QR Code Generator is built using the qrcode library in Python, making it a lightweight and efficient tool for creating QR codes for various purposes. Whether you need to share a link, encode contact information, or distribute other data, this tool simplifies the process of generating QR codes.
